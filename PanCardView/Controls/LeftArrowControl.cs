@@ -15,8 +15,8 @@ namespace PanCardView.Controls
         protected override ImageSource DefaultImageSource => WhiteLeftArrowImageSource;
 
         [EditorBrowsable(EditorBrowsableState.Never)]
-        public new static void Preserve()
-        {
-        }
+        
+        
+       
     }
 }
